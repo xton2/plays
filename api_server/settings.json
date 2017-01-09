@@ -1,0 +1,5 @@
+{
+	"host": "0.0.0.0",
+	"port": 8080,
+	"db.url": "postgresql://playapi:playapi@127.0.0.1:5432/playdb"
+}
